@@ -1,13 +1,13 @@
 {
-  "name": "CORE",
+  "name": "CORN2",
   "bot-account": {
-    "username": "CORE",
+    "username": "CORN2",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Calamity-U7VU.aternos.me",
-    "port": "30284",
+    "ip": "Schoolsmpwedonthaven.aternos.me",
+    "port": "38376",
     "version": "1.21.11",
     "try-creative": false
   },
